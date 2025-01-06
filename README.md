@@ -36,7 +36,7 @@ python dq-figure-out-seed-dist-for-pers.py "Warrior" "Male" "Paragon" "Strength:
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/dq-figure-out-seed-dist-for-pers.git
+git clone [https://github.com/thomascampbelladams/Dq-Personality-Guesser.git](https://github.com/thomascampbelladams/Dq-Personality-Guesser.git)
 cd dq-figure-out-seed-dist-for-pers
 ```
 
