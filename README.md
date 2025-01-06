@@ -47,7 +47,7 @@ The script supports logging to a file. You can enable or disable logging by sett
 DEBUG_MODE = True
 
 # Configure logging
-log_file_path = r'D:\source\repos\ADO Custom Form Extension\Custom-Form-Extension-And-Webapi\Ado-Extension\log.txt'
+log_file_path = r'D:\source\repos\log.txt'
 if DEBUG_MODE:
     logging.basicConfig(level=logging.DEBUG, filename=log_file_path)
 else:
